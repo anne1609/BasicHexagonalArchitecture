@@ -1,0 +1,5 @@
+Domain\Book.class
+Repository\InMemoryBookRepository.class
+Aplication\BookRepository.class
+Aplication\BookUseCase.class
+Sections\BookApp.class
